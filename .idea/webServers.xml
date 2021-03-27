@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="4f20688b-c95f-4e9a-898e-8b64d20a5559" name="berliseo.com" url="http://berliseo.com">
+        <fileTransfer accessType="SFTP" host="berliseo.com" port="22" sshConfigId="a62ebed9-1eea-409f-bc5b-7b0fb12bb89b" sshConfig="deploy@berliseo.com:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
