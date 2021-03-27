@@ -108,6 +108,7 @@ window.addEventListener('unload', (event) => {
 
 // eslint-disable-next-line no-undef
 // eslint-disable-next-line camelcase
+
 const gauge_pressure = new Gauge({
     renderTo: 'gauge_pressure',
     width: 190,
@@ -157,6 +158,7 @@ const gauge_pressure = new Gauge({
 
 // eslint-disable-next-line no-undef
 // eslint-disable-next-line camelcase
+
 const gauge_temperature = new Gauge({
     renderTo: 'gauge_temperature',
     width: 190,
@@ -206,6 +208,7 @@ const gauge_temperature = new Gauge({
 
 // eslint-disable-next-line no-undef
 // eslint-disable-next-line camelcase
+
 const gauge_humidity = new Gauge({
     renderTo: 'gauge_humidity',
     width: 190,
